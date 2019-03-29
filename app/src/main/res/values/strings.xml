@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Big File Finder</string>
+
+    <string name="search_menu">Search</string>
+    <string name="delete_menu">Delete</string>
+    <string name="add_menu">Add</string>
+
+    <string name="storage_main">Storage</string>
+
+    <string name="channel_name">notification</string>
+    <string name="channel_description">sort and search</string>
+
+    <string name="check_directories">Check directories to search in!</string>
+    <string name="check_directories_to_delete">Nothing to delete, please check directories to delete!</string>
+    <string name="dialog_title">Enter number of files</string>
+    <string name="dialog_hint">Number</string>
+    <string name="dialog_positive_button">OK</string>
+    <string name="enter_number_error">Enter number higher than 0!</string>
+    <string name="dialog_negative_button">Cancel</string>
+
+    <string name="custom_dialog_title">Create new directory</string>
+    <string name="custom_dialog_hint">Enter directory name</string>
+    <string name="custom_dialog_positive_button">OK</string>
+    <string name="custom_dialog_success">Directory created!</string>
+    <string name="custom_dialog_error">Directory already exists!</string>
+    <string name="custom_dialog_negative_button">Cancel</string>
+    <string name="directory">Directory(s) (</string>
+    <string name="directory_deleted">) deleted!</string>
+    <string name="directory_cannot_delete">) cannot be deleted!</string>
+
+    <string name="notification_title">Searching and sorting files</string>
+    <string name="no_files">No files found!</string>
+
+    <string name="task_completed">Complete</string>
+    <string name="task_canceled">Canceled</string>
+
+    <string name="mb">Mb</string>
+    <string name="kb">Kb</string>
+    <string name="permission_hint">You can change permissions in settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_file">This is File</string>
+    <string name="result_sort_search_title">Result(s) of search and sort</string>
+
+    <string name="dummy_path">DCMI/My photos/Vacation/…</string>
+    <string name="dummy_size">365Kb</string>
+    <string name="dummy_name">photo.jpg</string>
+</resources>
